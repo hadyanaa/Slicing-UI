@@ -1,0 +1,29 @@
+<svg width="235" height="243" viewBox="0 0 235 243" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1326_4976" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="236" height="244">
+<line x1="234.463" y1="156.166" x2="130.676" y2="242.864" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="228.317" y1="148.806" x2="124.529" y2="235.504" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="222.161" y1="141.436" x2="118.374" y2="228.134" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="216.006" y1="134.066" x2="112.218" y2="220.764" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="209.85" y1="126.696" x2="106.062" y2="213.394" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="203.695" y1="119.326" x2="99.9072" y2="206.024" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="197.539" y1="111.956" x2="93.7515" y2="198.654" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="191.384" y1="104.586" x2="87.5964" y2="191.285" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="185.229" y1="97.217" x2="81.4409" y2="183.915" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="179.073" y1="89.8468" x2="75.2852" y2="176.545" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="172.918" y1="82.477" x2="69.1299" y2="169.175" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="166.763" y1="75.107" x2="62.9751" y2="161.805" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="160.607" y1="67.7373" x2="56.8196" y2="154.435" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="154.452" y1="60.3671" x2="50.6638" y2="147.065" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="148.296" y1="52.9973" x2="44.5085" y2="139.695" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="142.141" y1="45.6273" x2="38.3535" y2="132.325" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="135.986" y1="38.2579" x2="32.198" y2="124.956" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="129.83" y1="30.8877" x2="26.0422" y2="117.586" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="123.675" y1="23.5179" x2="19.887" y2="110.216" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="117.519" y1="16.1481" x2="13.7314" y2="102.846" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="111.364" y1="8.77852" x2="7.57641" y2="95.4766" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line x1="105.208" y1="1.40856" x2="1.42016" y2="88.1067" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</mask>
+<g mask="url(#mask0_1326_4976)">
+<ellipse cx="117.869" cy="122.061" rx="57.6137" ry="59.7626" transform="rotate(-129.873 117.869 122.061)" fill="#28569B"/>
+</g>
+</svg>
